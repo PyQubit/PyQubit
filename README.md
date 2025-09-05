@@ -10,7 +10,6 @@
 
 ### 💻 Languages & Markup
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=40)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=40)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=40)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=40)
 
@@ -32,7 +31,7 @@
 
 ---
 
-## 🔑 Key Skills
+## 🔑 Skills
 
 - Machine Learning  
 - Deep Learning  
@@ -54,19 +53,19 @@
 ## 🎓 Certificates
 
 **Advanced API Programming**  
-![Advanced API Programming](https://aiolearn.app/cs/final/6e6972639875020.jpg =90x90)  
+![Advanced API Programming](https://aiolearn.app/cs/final/6e6972639875020.jpg) 
 
 **Deep Learning**  
-![Deep Learning](https://aiolearn.app/cs/final/06aa55639875021.jpg =90x90)  
+![Deep Learning](https://aiolearn.app/cs/final/06aa55639875021.jpg )  
 
 **AI Algorithms**  
-![AI Algorithms](https://aiolearn.app/cs/final/9ab444639875024.jpg =90x90)  
+![AI Algorithms](https://aiolearn.app/cs/final/9ab444639875024.jpg )  
 
 **Advanced Python**  
-![Advanced Python](https://aiolearn.app/cs/final/abc646639875026.jpg =90x90)  
+![Advanced Python](https://aiolearn.app/cs/final/abc646639875026.jpg)  
 
 **Python Basics**  
-![Python Basics](https://aiolearn.app/cs/final/75c456639875029.jpg =90x90)  
+![Python Basics](https://aiolearn.app/cs/final/75c456639875029.jpg )  
 
 ---
 
