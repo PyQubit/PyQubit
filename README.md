@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Mahdi Omidvar (PyQubit)
 
-💡 **AI Engineer & Developer | Python, Web & AI Specialist**  
+💡 **AI Engineer & Specialist| Python, Web & AI Development**  
 🏆 **Gold Medalist – INNOVERSE 2025 (AI Section)**  
 🔬 Transforming ideas into AI-driven projects and real-world solutions  
 
@@ -73,8 +73,7 @@
 
 **🏆 Innoverse-2025**  
 AI Challenge Project – Winner of Gold Medal in INNOVERSE 2025  
-**Tech Stack:** Python, Flask, TensorFlow, PyTorch, OpenCV  
-[GitHub Repository](https://github.com/PyQubit/Innoverse-2025)  
+[https://github.com/PyQubit/Innoverse-2025] 
 
 ---
 
