@@ -56,7 +56,7 @@
 **Gold Medal – [INNOVERSE 2025](https://innoverse.world/)  AI Challenge**  
 **Team (Iran):** Mohammad Mahdi Omidvar, Mahyar Alizadeh, Arad Chizari, Sogol Tarnabi  
 
-<img src="assets/IMG_20250906_201329_348.jpg" alt="Innoverse 2025 Gold Medal Certificate" width="500"/>
+<img src="GoldMedal.jpg" alt="Innoverse 2025 Gold Medal Certificate" width="500"/>
 
 ---
 
