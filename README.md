@@ -53,8 +53,10 @@
 
 [![🏆 INNOVERSE 2025 - Gold Medal](https://img.shields.io/badge/🏆%20INNOVERSE%202025-Gold%20Medal-%23FFD700?style=for-the-badge&logo=award&logoColor=white)](https://innoverse.world/innoverse%202025%20challenges%20result.pdf)
 
-**Gold Medal – [INNOVERSE 2025](https://innoverse.world/)  AI Challenge)**  
-**Team (Iran):** Mohammad Mahdi Omidvar, Mahyar Alizadeh, Arad Chizari, Sogol Tarnabi
+**Gold Medal – [INNOVERSE 2025](https://innoverse.world/)  AI Challenge**  
+**Team (Iran):** Mohammad Mahdi Omidvar, Mahyar Alizadeh, Arad Chizari, Sogol Tarnabi  
+
+<img src="assets/IMG_20250906_201329_348.jpg" alt="Innoverse 2025 Gold Medal Certificate" width="500"/>
 
 ---
 
@@ -69,12 +71,22 @@
 </div>
 
 <ol>
-  <li>Advanced API Programming</li>
-  <li>Deep Learning</li>
-  <li>AI Algorithms</li>
-  <li>Advanced Python</li>
   <li>Python Basics</li>
+  <li>Advanced Python</li>
+  <li>AI Algorithms</li>
+  <li>Deep Learning</li>
+  <li>Advanced API Programming</li>
 </ol>
+
+
+<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+    <img src="https://aiolearn.app/cs/w/e4b90e403276800.jpg" alt="AI Systems" width="160"/>
+</div>
+
+
+<o1>
+<li>Artificial Intelligence & Programming Webinar</li>
+</o1>
 
 ---
 
@@ -99,4 +111,5 @@ This project converts user emotions (text, voice, and images) into symbolic AI-g
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge&logoWidth=60)](https://instagram.com/PyQubit)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge&logoWidth=60)](https://t.me/PyQubit)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&logoWidth=60)](mailto:pyqubit@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&logoWidth=60)](mailto:pyqubit@gmail.com)  
+
