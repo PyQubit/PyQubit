@@ -63,11 +63,11 @@
 ## 🎓 Certificates
 
 <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://aiolearn.app/cs/final/6e6972639875020.jpg" alt="Advanced API Programming" width="160"/>
-  <img src="https://aiolearn.app/cs/final/06aa55639875021.jpg" alt="Deep Learning" width="160"/>
-  <img src="https://aiolearn.app/cs/final/9ab444639875024.jpg" alt="AI Algorithms" width="160"/>
-  <img src="https://aiolearn.app/cs/final/abc646639875026.jpg" alt="Advanced Python" width="160"/>
-  <img src="https://aiolearn.app/cs/final/75c456639875029.jpg" alt="Python Basics" width="160"/>
+  <img src="https://aiolearn.app/cs/final/6e6972639875020.jpg" alt="Advanced API Programming" width="180"/>
+  <img src="https://aiolearn.app/cs/final/06aa55639875021.jpg" alt="Deep Learning" width="180"/>
+  <img src="https://aiolearn.app/cs/final/9ab444639875024.jpg" alt="AI Algorithms" width="180"/>
+  <img src="https://aiolearn.app/cs/final/abc646639875026.jpg" alt="Advanced Python" width="180"/>
+  <img src="https://aiolearn.app/cs/final/75c456639875029.jpg" alt="Python Basics" width="180"/>
 </div>
 
 <ol>
@@ -78,15 +78,14 @@
   <li>Advanced API Programming</li>
 </ol>
 
-
 <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://aiolearn.app/cs/w/e4b90e403276800.jpg" alt="AI Systems" width="160"/>
+    <img src="https://aiolearn.app/cs/w/e4b90e403276800.jpg" alt="AI Systems" width="180"/>
 </div>
 
+<ol>
+  <li>Artificial Intelligence & Programming Webinar</li>
+</ol>
 
-<o1>
-<li>Artificial Intelligence & Programming Webinar</li>
-</o1>
 
 ---
 
