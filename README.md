@@ -11,8 +11,8 @@
 - **Deep Learning**  
 - **Reinforcement Learning**  
 - **Computer Vision**  
-- **Telegram Bot Development**  
-
+- **Telegram Bot Development**
+- **Image processing** 
 ---
 
 ## 🛠️ Skills & Tools
