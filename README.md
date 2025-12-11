@@ -7,12 +7,12 @@
 
 ## 🔑 Skills
 
-- **Machine Learning**  
-- **Deep Learning**  
-- **Reinforcement Learning**  
-- **Computer Vision**  
-- **Telegram Bot Development**
-- **Image processing** 
+- **Machine Learning & Deep Learning**
+- **Computer Vision & Image/Video Processing**
+- **Data Science & Feature Engineering**
+- **Reinforcement Learning**
+- **NLP & Transformers**
+- **Telegram Bot Development (AI-powered)**
 ---
 
 ## 🛠️ Skills & Tools
