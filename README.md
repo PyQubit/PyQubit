@@ -68,6 +68,7 @@
   <img src="https://aiolearn.app/cs/final/9ab444639875024.jpg" alt="AI Algorithms" width="180"/>
   <img src="https://aiolearn.app/cs/final/abc646639875026.jpg" alt="Advanced Python" width="180"/>
   <img src="https://aiolearn.app/cs/final/75c456639875029.jpg" alt="Python Basics" width="180"/>
+  <img src="https://aiolearn.app/cs/final/70fb50639875027.jpg" alt="Python Basics" width="180"/>
 </div>
 
 <ol>
@@ -76,6 +77,7 @@
   <li>AI Algorithms</li>
   <li>Deep Learning</li>
   <li>Advanced API Programming</li>
+  <li>Data Science</li>
 </ol>
 
 <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
