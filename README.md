@@ -110,6 +110,7 @@ This project converts user emotions (text, voice, and images) into symbolic AI-g
 
 ## 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=60)](https://www.linkedin.com/in/pyqubit)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge&logoWidth=60)](https://instagram.com/PyQubit)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge&logoWidth=60)](https://t.me/PyQubit)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&logoWidth=60)](mailto:pyqubit@gmail.com)  
