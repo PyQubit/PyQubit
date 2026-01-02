@@ -61,16 +61,6 @@
 ---
 
 ## 🎓 Certificates
-
-<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://aiolearn.app/cs/final/6e6972639875020.jpg" alt="Advanced API Programming" width="180"/>
-  <img src="https://aiolearn.app/cs/final/06aa55639875021.jpg" alt="Deep Learning" width="180"/>
-  <img src="https://aiolearn.app/cs/final/9ab444639875024.jpg" alt="AI Algorithms" width="180"/>
-  <img src="https://aiolearn.app/cs/final/abc646639875026.jpg" alt="Advanced Python" width="180"/>
-  <img src="https://aiolearn.app/cs/final/75c456639875029.jpg" alt="Python Basics" width="180"/>
-  <img src="https://aiolearn.app/cs/final/70fb50639875027.jpg" alt="Python Basics" width="180"/>
-</div>
-
 <ol>
   <li>Python Basics</li>
   <li>Advanced Python</li>
@@ -81,7 +71,6 @@
 </ol>
 
 <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://aiolearn.app/cs/w/e4b90e403276800.jpg" alt="AI Systems" width="180"/>
 </div>
 
 <ol>
@@ -110,8 +99,9 @@ This project converts user emotions (text, voice, and images) into symbolic AI-g
 
 ## 🌐 Connect with Me
 
+[![Website](https://img.shields.io/badge/Website-D14836?logo=globe&logoColor=white&style=for-the-badge&logoWidth=60)](https://pyqubit.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=60)](https://www.linkedin.com/in/pyqubit)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge&logoWidth=60)](https://instagram.com/PyQubit)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge&logoWidth=60)](https://t.me/PyQubit)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&logoWidth=60)](mailto:pyqubit@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&logoWidth=60)](mailto:pyqubit@gmail.com)
 
