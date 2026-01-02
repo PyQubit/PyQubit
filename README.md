@@ -70,14 +70,6 @@
   <li>Data Science</li>
 </ol>
 
-<div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-</div>
-
-<ol>
-  <li>Artificial Intelligence & Programming Webinar</li>
-</ol>
-
-
 ---
 
 ## 📌 Pin Projects
