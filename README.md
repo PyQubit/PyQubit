@@ -400,10 +400,7 @@ alt="Top Languages"
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/PyQubit/PyQubit/output/github-contribution-grid-snake-dark.svg"
-alt="Contribution Snake"
-/>
+<img src="https://raw.githubusercontent.com/PyQubit/PyQubit/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
 
 </div>
 
