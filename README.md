@@ -1,56 +1,56 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,45:0D1117,100:050508&height=220&section=header&text=MmdxDev&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%26%20Data%20Scientist&descAlignY=57&descSize=19&descColor=00D2FF"
-  width="100%"
-  alt="MmdxDev"
- />
+src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050508,45:0D1117,100:050508&amp;height=220&amp;section=header&amp;text=MmdxDev&amp;fontSize=72&amp;fontColor=FFD700&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20Engineer%20%26%20Data%20Scientist%20%7C%20Building%20Intelligent%20Solutions%20with%20Python%2C%20ML%20%26%20DL%20%7C%20NLP%20%26%20Computer%20Vision&amp;descAlignY=57&amp;descSize=16&amp;descColor=00D2FF"
+width="100%"
+alt="MmdxDev Header"
+/>
 
 <h2>Mohammad Mahdi Omidvar</h2>
 
 <p>
-<strong>AI Engineer & Data Scientist</strong>
+<strong>AI Engineer &amp; Data Scientist</strong>
 </p>
 
 <p>
-Building intelligent solutions with Python, Machine Learning & Deep Learning.<br/>
+Building intelligent solutions with Python, Machine Learning &amp; Deep Learning.<br/>
 Focused on NLP, Computer Vision, Data Science and production-ready AI systems.
 </p>
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=1100&color=FFD700&center=true&vCenter=true&width=850&lines=AI+Engineer+%26+Data+Scientist;Building+Intelligent+Solutions+with+Python;Machine+Learning+%26+Deep+Learning;NLP+%26+Computer+Vision;Research+%E2%86%92+Engineering+%E2%86%92+Production"
-  alt="Typing Animation"
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=3000&amp;pause=1100&amp;color=FFD700&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=AI+Engineer+%26+Data+Scientist;Building+Intelligent+Solutions+with+Python;Machine+Learning+%26+Deep+Learning;NLP+%26+Computer+Vision;Research+%E2%86%92+Engineering+%E2%86%92+Production"
+alt="Typing Animation"
 />
 
 <br/><br/>
 
 <a href="https://pyqubit.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-050508?style=for-the-badge&logo=googlechrome&logoColor=FFD700" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-050508?style=for-the-badge" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/pyqubit">
-  <img src="https://img.shields.io/badge/LinkedIn-050508?style=for-the-badge&logo=linkedin&logoColor=00D2FF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-050508?style=for-the-badge" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://github.com/PyQubit">
-  <img src="https://img.shields.io/badge/GitHub-050508?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-050508?style=for-the-badge" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://t.me/PyQubit">
-  <img src="https://img.shields.io/badge/Telegram-050508?style=for-the-badge&logo=telegram&logoColor=00D2FF" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-050508?style=for-the-badge" alt="Telegram"/>
 </a>
 &nbsp;
 <a href="mailto:pyqubit@gmail.com">
-  <img src="https://img.shields.io/badge/Email-050508?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-050508?style=for-the-badge" alt="Email"/>
 </a>
 
 <br/><br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=PyQubit&label=PROFILE%20VIEWS&color=FFD700&style=for-the-badge"
-  alt="Profile Views"
+src="https://komarev.com/ghpvc/?username=PyQubit&amp;label=PROFILE%20VIEWS&amp;color=FFD700&amp;style=for-the-badge"
+alt="Profile Views"
 />
 
 </div>
@@ -79,7 +79,7 @@ System Engineering
 Deployment
   ↓
 Real-World Impact
-````
+```
 
 ---
 
@@ -155,19 +155,19 @@ Integrating AI models into scalable APIs and production-oriented applications us
 
 ### Languages & Core
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=python&amp;theme=dark" height="52" alt="Python"/>
 
 <br/><br/>
 
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas&theme=dark" height="52" alt="AI Stack"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas&amp;theme=dark" height="52" alt="AI Stack"/>
 
 <br/><br/>
 
 ### Backend & Engineering
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgres,mysql,docker,git,github,linux&theme=dark" height="52" alt="Backend Stack"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgres,mysql,docker,git,github,linux&amp;theme=dark" height="52" alt="Backend Stack"/>
 
 </div>
 
@@ -207,7 +207,7 @@ Mohammad Mahdi Omidvar · Mahyar Alizadeh · Arad Chizari · Sogol Tarnabi
 
 <a href="https://github.com/PyQubit/Innoverse-2025">
   <img
-    src="https://img.shields.io/badge/VIEW%20PROJECT-050508?style=for-the-badge&logo=github&logoColor=FFD700"
+    src="https://img.shields.io/badge/VIEW%20PROJECT-050508?style=for-the-badge"
     alt="View Project"
   />
 </a>
@@ -253,7 +253,7 @@ Image ──────────►│             │
 
 <a href="https://github.com/PyQubit/Innoverse-2025">
   <img
-    src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-050508?style=for-the-badge&logo=github&logoColor=FFD700"
+    src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-050508?style=for-the-badge"
     alt="View Source Code"
   />
 </a>
@@ -373,13 +373,13 @@ alt="Advanced API Programming"
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=PyQubit&show_icons=true&hide_border=true&theme=radical&bg_color=050508&title_color=FFD700&icon_color=00D2FF&text_color=F0F0F0&ring_color=FFD700"
+src="https://github-readme-stats.vercel.app/api?username=PyQubit&amp;show_icons=true&amp;hide_border=true&amp;theme=radical&amp;bg_color=050508&amp;title_color=FFD700&amp;icon_color=00D2FF&amp;text_color=F0F0F0&amp;ring_color=FFD700"
 height="180"
 alt="GitHub Stats"
 />
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=PyQubit&theme=dark&hide_border=true&background=050508&ring=FFD700&fire=FFD700&currStreakLabel=00D2FF&sideLabels=F0F0F0&dates=A0A0B0"
+src="https://github-readme-streak-stats.herokuapp.com/?user=PyQubit&amp;theme=dark&amp;hide_border=true&amp;background=050508&amp;ring=FFD700&amp;fire=FFD700&amp;currStreakLabel=00D2FF&amp;sideLabels=F0F0F0&amp;dates=A0A0B0"
 height="180"
 alt="GitHub Streak"
 />
@@ -387,7 +387,7 @@ alt="GitHub Streak"
 <br/><br/>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyQubit&layout=compact&hide_border=true&theme=radical&bg_color=050508&title_color=FFD700&text_color=F0F0F0"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyQubit&amp;layout=compact&amp;hide_border=true&amp;theme=radical&amp;bg_color=050508&amp;title_color=FFD700&amp;text_color=F0F0F0"
 height="180"
 alt="Top Languages"
 />
@@ -400,7 +400,10 @@ alt="Top Languages"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PyQubit/PyQubit/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+<img
+src="https://raw.githubusercontent.com/PyQubit/PyQubit/gh-pages/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+/>
 
 </div>
 
@@ -453,23 +456,23 @@ Production AI
 <br/>
 
 <a href="https://pyqubit.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-050508?style=for-the-badge&logo=googlechrome&logoColor=FFD700" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-050508?style=for-the-badge" alt="Portfolio"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pyqubit">
-  <img src="https://img.shields.io/badge/LinkedIn-050508?style=for-the-badge&logo=linkedin&logoColor=00D2FF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-050508?style=for-the-badge" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/PyQubit">
-  <img src="https://img.shields.io/badge/GitHub-050508?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-050508?style=for-the-badge" alt="GitHub"/>
 </a>
 
 <a href="https://t.me/PyQubit">
-  <img src="https://img.shields.io/badge/Telegram-050508?style=for-the-badge&logo=telegram&logoColor=00D2FF" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-050508?style=for-the-badge" alt="Telegram"/>
 </a>
 
 <a href="mailto:pyqubit@gmail.com">
-  <img src="https://img.shields.io/badge/Email-050508?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-050508?style=for-the-badge" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -483,7 +486,7 @@ Production AI
 <br/><br/>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:0D1117,100:050508&height=120&section=footer&text=Thank%20you%20for%20visiting&fontSize=16&fontColor=A0A0B0&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050508,50:0D1117,100:050508&amp;height=120&amp;section=footer&amp;text=Thank%20you%20for%20visiting&amp;fontSize=16&amp;fontColor=A0A0B0&amp;animation=fadeIn"
 width="100%"
 alt="Footer"
 />
