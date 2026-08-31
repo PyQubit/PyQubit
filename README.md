@@ -1,159 +1,221 @@
 <div align="center">
 
-# 🚀 **Mohammad Mahdi Omidvar**
+<!-- ╔════════════════════════════════════════════════════════════╗ -->
+<!-- ║        🚀 AI ENGINEER & DATA SCIENTIST 🚀          ║ -->
+<!-- ╚════════════════════════════════════════════════════════════╝ -->
 
-### AI Engineer & Data Scientist | INNOVERSE 2025 Gold Medalist
-
-**Building Intelligent Solutions with Python, Machine Learning & Deep Learning**
+<img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&size=28&duration=4000&pause=1500&color=D4AF37&center=true&vCenter=true&width=900&lines=Mohammad+Mahdi+Omidvar;AI+Engineer+%7C+Data+Scientist;Building+Intelligent+Solutions+with+Python;Machine+Learning+%26+Deep+Learning;NLP+%26+Computer+Vision" alt="Professional Typing Animation"/>
 
 ---
 
-## 🎖️ **Distinguished Achievements**
+## 🏆 **Elite Profile**
 
-<table align="center">
+<table>
 <tr>
-<td align="center">
+<td width="50%" align="center">
 
-### 🏅 Gold Medal
+**Specialization**
 
-<img src="https://pyqubit.github.io/4.jpg" alt="INNOVERSE 2025 Gold Medal" width="200" style="border: 3px solid #D4AF37; border-radius: 10px; margin: 10px 0;"/>
-
-**INNOVERSE 2025**
-
-Excellence in AI Innovation
+`AI Engineering` · `Machine Learning`  
+`Deep Learning` · `NLP` · `Computer Vision`
 
 </td>
-<td align="center">
+<td width="50%" align="center">
 
-### 📜 Official Certificate
+**Philosophy**
 
-<img src="https://pyqubit.github.io/3.jpg" alt="INNOVERSE 2025 Certificate" width="200" style="border: 3px solid #D4AF37; border-radius: 10px; margin: 10px 0;"/>
-
-**AI Emotion-to-Art**
-
-Multimodal AI Generation
+Research → Development → Engineering  
+Deployment → Real-World Impact
 
 </td>
 </tr>
 </table>
 
----
+### 📱 Connect With Me
 
-## ✨ **Connect & Collaborate**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=flat-square&logo=github&logoColor=000)](https://pyqubit.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pyqubit)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/PyQubit)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=fff)](https://t.me/PyQubit)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=fff)](mailto:pyqubit@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=github&logoColor=000&labelColor=1a1a1a)](https://pyqubit.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1a1a1a)](https://www.linkedin.com/in/MmdxDev))
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=1a1a1a)](https://github.com/PyQubit)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=fff&labelColor=1a1a1a)](https://t.me/MmdxDev))
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=1a1a1a)](mailto:pyqubit@gmail.com)
 
 ---
+
+## ✨ **Distinguished Achievements**
+
+<div align="center">
+
+### 🥇 **INNOVERSE 2025 — Gold Medalist**
+
+**AI Section · Emotion-to-Art Generative System**
+
+Innovation in Multimodal AI & Artistic Generation
+
+<br/>
+
+[![](https://img.shields.io/badge/📜%20Certificate-D4AF37?style=for-the-badge)](https://pyqubit.github.io/3.jpg)
+[![](https://img.shields.io/badge/🏅%20Medal-FFD700?style=for-the-badge)](https://pyqubit.github.io/4.jpg)
 
 </div>
 
+| **Certificate & Recognition** | |
+|:---:|:---|
+| **🏅 Gold Medal** | Excellence in AI Innovation |
+| **📜 Official Certificate** | INNOVERSE 2025 Competition |
+
+<br/>
+
+<img src="https://pyqubit.github.io/3.jpg" alt="INNOVERSE 2025 Certificate" width="280" style="border: 2px solid #D4AF37; border-radius: 8px; margin: 10px;"/>
+<img src="https://pyqubit.github.io/4.jpg" alt="INNOVERSE 2025 Gold Medal" width="280" style="border: 2px solid #D4AF37; border-radius: 8px; margin: 10px;"/>
+
+---
+
 ## 🎯 **Core Expertise**
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│                  🤖 AI ENGINEERING                  │
+├─────────────────────────────────────────────────────┤
+│  • Machine Learning Architectures                   │
+│  • Deep Neural Networks (PyTorch, TensorFlow)       │
+│  • Computer Vision Systems                          │
+│  • Natural Language Processing & Transformers       │
+│  • Production-Scale AI APIs                         │
+│  • Data Science & Analytics                         │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### 🧠 **Technical Domains**
 
 | Domain | Specialization |
 |:------:|:-----------------|
-| **🤖 Machine Learning & AI** | Classical algorithms, modern deep learning, decision trees, ensemble methods, optimization techniques |
-| **🧠 Deep Learning** | PyTorch, TensorFlow, CNN, RNN, Transformers, attention mechanisms, neural architecture design |
-| **👁️ Computer Vision** | Image classification, object detection, segmentation, pose estimation, real-time systems |
-| **🗣️ NLP & LLMs** | Transformer models, language generation, sentiment analysis, seq2seq, prompt engineering |
-| **📊 Data Science** | EDA, feature engineering, predictive modeling, statistical analysis, data visualization |
-| **⚙️ AI Engineering** | FastAPI, scalable backends, Docker containerization, production pipelines, cloud deployment |
+| **🤖 ML & AI** | Classical algorithms, modern deep learning, decision trees, ensemble methods |
+| **🧠 Deep Learning** | PyTorch, TensorFlow, CNN, RNN, Transformers, attention mechanisms |
+| **👁️ Computer Vision** | Image classification, object detection, segmentation, pose estimation |
+| **🗣️ NLP** | Transformers, LLMs, text generation, sentiment analysis, seq2seq models |
+| **📊 Data Science** | EDA, feature engineering, predictive modeling, statistical analysis |
+| **⚙️ AI Engineering** | FastAPI, scalable backends, Docker, production pipelines, cloud deployment |
 
 ---
 
 ## 🛠️ **Professional Tech Stack**
 
-### **Core Language**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+### 🐍 **Core Language**
 
-### **AI & Machine Learning**
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+<div align="center">
 
-### **Backend & Infrastructure**
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **DevOps & Version Control**
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+</div>
 
----
+### 🤖 **AI & Machine Learning**
 
-## 🎨 **Flagship Project: Emotion-to-Art AI System**
+<div align="center">
 
-### A Multimodal AI Pipeline for Emotional Understanding & Artistic Generation
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Understanding human emotions across multiple modalities and generating unique artistic interpretations.**
+</div>
 
-#### **System Architecture**
+### 📊 **Data & Computation**
 
-```
-┌─────────────────────────────────────────────┐
-│           INPUT MODALITIES                  │
-├─────────────────────────────────────────────┤
-│  • 📝 Text Analysis & Processing            │
-│  • 🎤 Voice Recognition (Whisper)           │
-│  • 🖼️  Image Understanding & Context        │
-└─────────────────────────────────────────────┘
-              ↓
-┌─────────────────────────────────────────────┐
-│         EMOTION ENGINE                      │
-├─────────────────────────────────────────────┤
-│  • LLM-based Interpretation                 │
-│  • Sentiment & Emotional Analysis           │
-│  • Context & Pattern Recognition            │
-└─────────────────────────────────────────────┘
-              ↓
-┌─────────────────────────────────────────────┐
-│      GENERATIVE AI SYNTHESIS                │
-├─────────────────────────────────────────────┤
-│  • Artistic Style Transfer                  │
-│  • Image Generation (Replicate API)         │
-│  • Creative Output Optimization             │
-└─────────────────────────────────────────────┘
-              ↓
-┌─────────────────────────────────────────────┐
-│      OUTPUT: UNIQUE ARTWORK                 │
-└─────────────────────────────────────────────┘
-```
+<div align="center">
 
-#### **Key Technologies**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
-`Python` · `Gradio` · `Ollama` · `LLMs` · `Whisper` · `Audio Processing` · `Replicate API`
+</div>
 
-#### **Core Features**
+### 🚀 **Backend & Infrastructure**
 
-- ✨ Multimodal emotion recognition and analysis
-- 🎵 Advanced speech-to-text with Whisper integration
-- 🧠 AI-powered emotion interpretation using LLMs
-- 🎨 High-quality generative artwork synthesis
-- 🖥️ Interactive web interface with Gradio
-- 🔄 Real-time processing and feedback
+<div align="center">
 
-**[View Full Repository →](https://github.com/PyQubit/Innoverse-2025)**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+### 🐳 **DevOps & Version Control**
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🎨 **Flagship Project: INNOVERSE 2025**
+
+### Emotion-to-Art: Multimodal AI Generation
+
+A sophisticated AI pipeline that understands human emotions across multiple modalities and generates artistic interpretations.
+
+**System Architecture:**
+
+```
+INPUT MODALITIES
+    ↓
+    ├─ 📝 Text Analysis
+    ├─ 🎤 Voice Processing (Whisper)
+    └─ 🖼️ Image Understanding
+    ↓
+EMOTION ENGINE
+    ├─ LLM-based Interpretation
+    ├─ Sentiment Analysis
+    └─ Emotional Context Mapping
+    ↓
+GENERATIVE AI
+    └─ Artistic Synthesis (Replicate API)
+    ↓
+OUTPUT
+    └─ Unique Generative Artwork
+```
+
+**Key Technologies:**
+- Python · Gradio · Ollama · LLMs · Whisper · Audio Processing · Replicate API
+
+**Features:**
+- ✨ Multimodal emotion recognition
+- 🎵 Advanced speech-to-text processing
+- 🧠 AI-powered emotion interpretation
+- 🎨 High-quality generative artwork
+- 🖥️ Interactive user interface
+
+[![View Project Repository](https://img.shields.io/badge/VIEW%20PROJECT%20REPOSITORY-D4AF37?style=for-the-badge&logo=github)](https://github.com/PyQubit/Innoverse-2025)
+
+---
+
+## 📈 **Performance Metrics**
+
+### GitHub Analytics
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PyQubit&show_icons=true&theme=dark&bg_color=0d1117&title_color=d4af37&text_color=f0f0f0&icon_color=d4af37&border_color=d4af37&border_radius=10)
 
+</div>
+
+<div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PyQubit&theme=dark&background=0d1117&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=d4af37&border_radius=10)
+
+</div>
+
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PyQubit&layout=compact&theme=dark&bg_color=0d1117&title_color=d4af37&text_color=f0f0f0&border_color=d4af37&border_radius=10)
 
@@ -173,93 +235,114 @@ Multimodal AI Generation
 
 ## 📚 **Professional Certifications**
 
-| Certification | Domain | Proficiency | Status |
-|:---:|:---:|:---:|:---:|
-| **Basic Python** | Core Programming | Fundamentals | ✅ Completed |
-| **Advanced Python** | Expert Development | Advanced | ✅ Completed |
-| **AI Algorithms** | Machine Learning | Intermediate-Advanced | ✅ Completed |
-| **Deep Learning** | Neural Networks | Advanced | ✅ Completed |
-| **Data Science** | Analytics & Modeling | Advanced | ✅ Completed |
-| **Advanced API Programming** | Backend Engineering | Advanced | ✅ Completed |
+<div align="center">
+
+| Certification | Domain | Status |
+|:---:|:---:|:---:|
+| **Basic Python** | Core Programming | ✅ Completed |
+| **Advanced Python** | Expert Development | ✅ Completed |
+| **AI Algorithms** | Machine Learning | ✅ Completed |
+| **Deep Learning** | Neural Networks | ✅ Completed |
+| **Data Science** | Analytics & Modeling | ✅ Completed |
+| **Advanced API Programming** | Backend Engineering | ✅ Completed |
+
+</div>
 
 ---
 
-## 🔭 **Current Focus & Research Areas**
+## 🔭 **Current Focus Areas**
+
+<div align="center">
 
 ```
-🎯 ACTIVE RESEARCH PIPELINE
+🎯 RESEARCH PIPELINE 🎯
 
 ├─ Large Language Models & Prompt Engineering
-├─ Multimodal AI Systems & Cross-Modal Fusion
-├─ Autonomous AI Agents & Decision Systems
+├─ Multimodal AI Systems & Fusion
+├─ Autonomous AI Agents
 ├─ Advanced Computer Vision Applications
-├─ Intelligent Automation & Optimization
+├─ Intelligent Automation Solutions
 └─ Production-Scale AI Infrastructure
 ```
 
-**Research Philosophy:** Research with Purpose → Engineering with Excellence → Deploy with Impact
+**Motto:** *Research with Purpose → Engineering with Excellence → Deploy with Impact*
+
+</div>
 
 ---
 
-## 💡 **Work Methodology**
+## 💡 **Work Philosophy**
+
+<div align="center">
 
 ```
 IDEA
   ↓
-RESEARCH & EXPLORATION
+RESEARCH
   ↓
-PROTOTYPING & VALIDATION
+PROTOTYPING
   ↓
-SYSTEM ENGINEERING
+ENGINEERING
   ↓
-OPTIMIZATION & REFINEMENT
+OPTIMIZATION
   ↓
-PRODUCTION DEPLOYMENT
+PRODUCTION
   ↓
-REAL-WORLD IMPACT & MEASUREMENT
+REAL-WORLD IMPACT
 ```
 
-### **Core Approach**
-- 🎯 **Problem-First**: Deep understanding of challenges
-- 🔬 **Research-Driven**: Leverage cutting-edge techniques
-- 💻 **Engineer-Minded**: Build production-ready systems
-- 📦 **Deployment-Focused**: Scale intelligently
-- 📊 **Impact-Measured**: Track and measure real-world results
+</div>
+
+**Approach:**
+- 🎯 **Problem-First:** Understand the challenge deeply
+- 🔬 **Research-Driven:** Leverage latest techniques
+- 💻 **Engineer-Minded:** Build production-ready systems
+- 📦 **Deployment-Focused:** Scale intelligently
+- 📊 **Impact-Measured:** Track real-world results
 
 ---
 
-## 🌟 **Why Collaborate With Me?**
+## 🌟 **Why Work With Me**
 
-✅ **Deep Expertise** — 6+ years in AI/ML development  
-✅ **Innovation Track Record** — INNOVERSE 2025 Gold Medalist  
-✅ **Production Excellence** — Deployed systems in real-world environments  
-✅ **Full Stack Capability** — From research to production engineering  
-✅ **Technical Passion** — Genuine enthusiasm for intelligent systems  
-✅ **Communication** — Clear, collaborative, team-oriented  
-✅ **Continuous Learning** — Always exploring new frontiers in AI  
+✅ **Expertise:** 6+ years in AI/ML development  
+✅ **Innovation:** INNOVERSE 2025 Gold Medalist  
+✅ **Production Ready:** Deployed systems in real-world environments  
+✅ **Full Stack:** From research to production engineering  
+✅ **Passionate:** Genuine enthusiasm for intelligent systems  
+✅ **Collaborative:** Team-oriented with clear communication  
 
 ---
 
 ## 🚀 **Let's Build Something Extraordinary**
 
-I'm passionate about transforming ideas into intelligent systems that create real-world impact. Whether you're working on cutting-edge AI research, building production systems, or exploring new possibilities in machine learning, I'm here to collaborate.
+<div align="center">
 
-**Let's connect and create something exceptional together!**
+### Connect & Collaborate
+
+| Channel | Link |
+|:---:|:---|
+| 💼 | [Portfolio](https://pyqubit.github.io/) |
+| 🔗 | [LinkedIn](https://www.linkedin.com/in/MmdxDev) |
+| 💻 | [GitHub](https://github.com/PyQubit) |
+| 💬 | [Telegram](https://t.me/MmdxDev)) |
+| 📧 | [Email](mailto:pyqubit@gmail.com) |
+
+</div>
 
 ---
 
 <div align="center">
 
-### Mohammad Mahdi Omidvar
+### **Mohammad Mahdi Omidvar**
+*AI Engineer & Data Scientist*  
+*INNOVERSE 2025 Gold Medalist*
 
-*AI Engineer & Data Scientist | INNOVERSE 2025 Gold Medalist*
+<br/>
 
-**"Build. Experiment. Engineer. Ship."**
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Build. Experiment. Engineer. Ship.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
----
-
-[![Profile Views](https://komarev.com/ghpvc/?username=PyQubit&label=PROFILE+VIEWS&color=d4af37&style=flat-square)](https://github.com/PyQubit)
-
-⭐ **If you find my work interesting, please consider starring my repositories!** ⭐
-
-</div>
+<br/>
