@@ -1,15 +1,35 @@
-# Mohammad Mahdi Omidvar
+<div align="center">
+
+<a href="https://github.com/PyQubit">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Mohammad+Mahdi+Omidvar;AI+Engineer+%26+Data+Scientist;Building+Intelligent+Systems" alt="Mohammad Mahdi Omidvar" />
+</a>
 
 ### AI Engineer & Data Scientist
 
-Building intelligent systems with **Python, Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI.**
+**Building intelligent systems with Python, Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-PyQubit-181717?style=flat-square\&logo=github)](https://github.com/PyQubit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MmdxDev-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/MmdxDev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-pyqubit.github.io-2F80ED?style=flat-square\&logo=google-chrome\&logoColor=white)](https://pyqubit.github.io/)
-[![Telegram](https://img.shields.io/badge/Telegram-MmdxDev-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/MmdxDev)
+<br>
+
+<a href="https://github.com/PyQubit">
+  <img src="https://img.shields.io/badge/GitHub-PyQubit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/MmdxDev">
+  <img src="https://img.shields.io/badge/LinkedIn-MmdxDev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://pyqubit.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-PyQubit-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://t.me/MmdxDev">
+  <img src="https://img.shields.io/badge/Telegram-MmdxDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
+</div>
 
 ---
+
 
 ## 👨‍💻 About Me
 
@@ -34,6 +54,8 @@ I'm particularly interested in combining modern AI techniques with software engi
 * 🚀 MLOps & Experiment Tracking
 * 🏗️ Production AI Architecture
 
+---
+
 ## 🏆 Recognition
 
 ### 🥇 Gold Medalist — INNOVERSE 2025
@@ -53,17 +75,20 @@ Recognized at **INNOVERSE 2025** for an AI project developed as part of a multid
 
 📜 **Recognition**
 
-<p align="center">
-  <img src="https://pyqubit.github.io/3.jpg" alt="INNOVERSE 2025 Certificate" width="350">
-  <br>
-  <sub>INNOVERSE 2025 Certificate</sub>
-</p>
-
-<p align="center">
-  <img src="https://pyqubit.github.io/4.jpg" alt="INNOVERSE 2025 Gold Medal" width="250">
-  <br>
-  <sub>INNOVERSE 2025 Gold Medal</sub>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://pyqubit.github.io/3.jpg" alt="INNOVERSE 2025 Certificate" width="300">
+      <br>
+      <sub>INNOVERSE 2025 Certificate</sub>
+    </td>
+    <td align="center">
+      <img src="https://pyqubit.github.io/4.jpg" alt="INNOVERSE 2025 Gold Medal" width="300">
+      <br>
+      <sub>INNOVERSE 2025 Gold Medal</sub>
+    </td>
+  </tr>
+</table>
 
 🔗 [View the project →](https://github.com/PyQubit/Innoverse-2025)
 
@@ -169,7 +194,7 @@ Recognized at **INNOVERSE 2025** for an AI project developed as part of a multid
 
 ---
 
-## 🛠️ Technology Stack
+# 🛠️ Technology Stack
 
 ### Languages
 
@@ -220,9 +245,15 @@ Recognized at **INNOVERSE 2025** for an AI project developed as part of a multid
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 AI Project Portfolio
 
-## 🥇 Innoverse 2025 — Emotion-to-Art Multimodal AI
+A collection of **21 AI, Machine Learning, Deep Learning, Data Science, and AI Engineering projects** covering research, applied AI, intelligent applications, and production-oriented systems.
+
+---
+
+## 🥇 01 — Innoverse 2025
+
+### Emotion-to-Art Multimodal AI
 
 A multimodal AI system combining **emotion recognition and generative visual concepts** to transform emotional information into artistic outputs.
 
@@ -234,9 +265,47 @@ A multimodal AI system combining **emotion recognition and generative visual con
 
 ---
 
-## 🌱 AsanAi — Smart Agriculture AI Assistant
+## 🎙️ 02 — Advanced Audio Processing
 
-A multimodal AI assistant designed for agricultural applications.
+A deep-learning-based audio processing project exploring speech and audio classification pipelines.
+
+### Techniques
+
+* MFCC
+* Spectrogram
+* Mel-Spectrogram
+* Audio Preprocessing
+* CNN / RNN / LSTM
+* Speech Classification
+
+**Focus:** Speech AI · Deep Learning · Audio Processing
+
+🔗 [Repository](https://github.com/PyQubit/Audio-Processing)
+
+---
+
+## 🗣️ 03 — Speech Emotion Recognition
+
+An AI system focused on recognizing **human emotions from speech signals** using machine learning and deep learning techniques.
+
+### Focus Areas
+
+* Speech Feature Extraction
+* MFCC
+* Audio Classification
+* Emotion Classification
+* Deep Neural Networks
+* Speech Processing
+
+**Focus:** Speech AI · Audio Intelligence · Deep Learning
+
+---
+
+## 🌱 04 — AsanAi
+
+### Smart Agriculture Multimodal AI Assistant
+
+A multimodal AI assistant designed for agricultural applications, combining conversational AI with plant image analysis.
 
 ### Capabilities
 
@@ -251,9 +320,13 @@ A multimodal AI assistant designed for agricultural applications.
 
 **Focus:** Generative AI · Multimodal AI · Computer Vision · AI Products · Backend Engineering
 
+🔗 [Repository](https://github.com/PyQubit/AsanAi)
+
 ---
 
-## 🩺 CbcAi — Conversational Medical AI
+## 🩺 05 — CbcAi
+
+### Conversational Medical AI Assistant
 
 A conversational AI assistant designed around structured interaction, user context, and safety-aware AI responses.
 
@@ -271,71 +344,369 @@ A conversational AI assistant designed around structured interaction, user conte
 
 **Focus:** Conversational AI · LLM Applications · Backend Engineering · PostgreSQL · AI Safety
 
----
-
-## 🎙️ Advanced Audio Processing
-
-A deep-learning-based audio processing project exploring speech and audio classification pipelines.
-
-### Techniques
-
-* MFCC
-* Spectrogram
-* Mel-Spectrogram
-* Audio Preprocessing
-* CNN / RNN / LSTM
-* Speech Classification
-
-🔗 [Repository](https://github.com/PyQubit/Audio-Processing)
+🔗 [Repository](https://github.com/PyQubit/CbcAi)
 
 ---
 
-## 📝 NLP with Deep Learning
+## 📊 06 — Data Science Analytics Platform
 
-An NLP project focused on **sentiment analysis of IMDB movie reviews** using deep learning.
+A data science project focused on transforming raw datasets into actionable insights through systematic analysis.
 
-### Pipeline
+### Focus Areas
+
+* Data Exploration
+* Statistical Analysis
+* Feature Analysis
+* Visualization
+* Pattern Discovery
+* Data-Driven Insights
+
+**Focus:** Data Science · Analytics · Python · Pandas
+
+---
+
+## 📈 07 — Time-Series Forecasting
+
+A machine learning project focused on analyzing temporal patterns and predicting future observations.
+
+### Focus Areas
+
+* Time-Series Analysis
+* Feature Engineering
+* Trend Detection
+* Forecasting
+* Model Evaluation
+* Predictive Modeling
+
+**Focus:** Machine Learning · Forecasting · Data Science
+
+---
+
+## 🧹 08 — Real-World Data Cleaning & EDA
+
+A practical data science project demonstrating how messy real-world data can be transformed into analysis-ready datasets.
+
+### Focus Areas
+
+* Missing Data Handling
+* Duplicate Detection
+* Outlier Analysis
+* Data Transformation
+* Feature Engineering
+* Exploratory Data Analysis
+* Visualization
+
+**Focus:** Data Cleaning · EDA · Data Science
+
+---
+
+## 🛡️ 09 — Fraud Detection System
+
+A machine learning system designed to identify potentially fraudulent transactions or anomalous behavior.
+
+### Focus Areas
+
+* Classification
+* Anomaly Detection
+* Feature Engineering
+* Imbalanced Data
+* Model Evaluation
+* Precision / Recall Analysis
+
+**Focus:** Applied Machine Learning · Anomaly Detection · Classification
+
+---
+
+## 🎯 10 — Recommendation Engine
+
+A recommendation system designed to identify relevant items based on user behavior, item characteristics, or similarity.
+
+### Focus Areas
+
+* Recommendation Systems
+* Similarity Search
+* Feature Engineering
+* Ranking
+* User / Item Modeling
+* Personalization
+
+**Focus:** Machine Learning · Recommendation Systems · Information Retrieval
+
+---
+
+## 📝 11 — Persian Transformer NLP
+
+A Persian Natural Language Processing project exploring modern Transformer-based approaches for Persian language understanding.
+
+### Focus Areas
+
+* Persian NLP
+* Transformers
+* Tokenization
+* Text Classification
+* Embeddings
+* Fine-Tuning
+* Language Understanding
+
+**Focus:** NLP · Transformers · Persian AI
+
+---
+
+## 🔎 12 — Persian RAG Knowledge Base
+
+A Retrieval-Augmented Generation system designed around Persian-language knowledge retrieval and grounded AI responses.
+
+### Architecture
 
 ```text
-IMDB Reviews
-      ↓
-Text Preprocessing
-      ↓
-Tokenization
-      ↓
-Sequence Padding
-      ↓
-Embedding
-      ↓
-LSTM
-      ↓
-Dense Output
-      ↓
-Positive / Negative
+Documents
+    ↓
+Text Processing
+    ↓
+Chunking
+    ↓
+Embeddings
+    ↓
+Vector Retrieval
+    ↓
+Relevant Context
+    ↓
+LLM
+    ↓
+Grounded Response
 ```
 
-**Focus:** NLP · Deep Learning · LSTM · Sentiment Analysis
+**Focus:** RAG · LLMs · Embeddings · Vector Search · Persian NLP
 
 ---
 
-# 🔬 AI Project Portfolio
+## 🧠 13 — Persian Semantic Search
 
-Beyond the flagship projects above, my development roadmap covers a broad range of AI engineering problems:
+A semantic search system designed to retrieve conceptually relevant Persian content rather than relying only on exact keyword matching.
 
-| Domain              | Projects                                      |
-| ------------------- | --------------------------------------------- |
-| 🤖 Generative AI    | LLM Applications · RAG · AI Agents            |
-| 📝 NLP              | Persian Transformer NLP · Semantic Search     |
-| 🔎 Retrieval        | RAG Knowledge Base · Vector Search            |
-| 👁️ Computer Vision | Object Detection · Visual Search              |
-| 📄 Document AI      | Document Intelligence · OCR                   |
-| 🎙️ Speech AI       | Speech-to-Text · Speech Emotion Recognition   |
-| 📊 Data Science     | Analytics · EDA · Data Cleaning               |
-| 📈 Predictive AI    | Time-Series Forecasting                       |
-| 🛡️ Applied ML      | Fraud Detection · Recommendation Systems      |
-| ⚙️ AI Engineering   | Model Serving · Experiment Tracking · AI APIs |
-| 🏗️ AI Products     | Production AI Platforms · End-to-End AI SaaS  |
-| 🧩 Agentic AI       | Multi-Agent Research Systems                  |
+### Focus Areas
+
+* Text Embeddings
+* Semantic Similarity
+* Vector Search
+* Information Retrieval
+* Persian NLP
+* Ranking
+
+**Focus:** NLP · Search · Embeddings · Retrieval
+
+---
+
+## 📄 14 — Document Intelligence System
+
+An intelligent document-processing system combining document understanding, information extraction, and AI-powered analysis.
+
+### Focus Areas
+
+* Document Processing
+* OCR
+* Text Extraction
+* Information Extraction
+* Document Classification
+* NLP
+* AI-Powered Analysis
+
+**Focus:** Document AI · OCR · NLP · Information Extraction
+
+---
+
+## 👁️ 15 — Computer Vision Object Detection
+
+A computer vision project focused on detecting and localizing objects within images.
+
+### Focus Areas
+
+* Object Detection
+* Image Processing
+* Bounding Boxes
+* Computer Vision
+* Deep Learning
+* Model Evaluation
+
+**Focus:** Computer Vision · Deep Learning · Object Detection
+
+---
+
+## 🔍 16 — Visual Search Engine
+
+An AI-powered visual retrieval system designed to find visually or semantically similar images.
+
+### Focus Areas
+
+* Image Embeddings
+* Feature Extraction
+* Similarity Search
+* Vector Retrieval
+* Computer Vision
+* Image Retrieval
+
+**Focus:** Computer Vision · Embeddings · Search · Retrieval
+
+---
+
+## 🧩 17 — Multi-Agent Research System
+
+An agentic AI architecture designed to divide complex research tasks among specialized AI agents.
+
+### Architecture
+
+```text
+User Query
+    ↓
+Research Planner
+    ↓
+┌──────────────┬──────────────┬──────────────┐
+│ Researcher   │ Analyzer     │ Verifier     │
+└──────────────┴──────────────┴──────────────┘
+                ↓
+          Information Synthesis
+                ↓
+          Final Research Output
+```
+
+**Focus:** AI Agents · Multi-Agent Systems · LLMs · Research Automation
+
+---
+
+## 🎙️ 18 — Speech-to-Text Platform
+
+An AI-powered speech recognition platform designed to convert spoken language into machine-readable text.
+
+### Focus Areas
+
+* Automatic Speech Recognition
+* Audio Preprocessing
+* Speech Segmentation
+* Transcription
+* Language Processing
+* AI Inference
+
+**Focus:** Speech AI · NLP · Audio Processing
+
+---
+
+## 🧪 19 — ML Experiment Tracking Platform
+
+A system designed to organize machine learning experiments and make model development more reproducible.
+
+### Focus Areas
+
+* Experiment Tracking
+* Model Versioning
+* Hyperparameter Logging
+* Metrics Tracking
+* Dataset Tracking
+* Reproducibility
+* Model Comparison
+
+**Focus:** MLOps · Machine Learning · Experiment Management
+
+---
+
+## ⚙️ 20 — Production AI Model Platform
+
+A production-oriented platform for serving and managing AI models through APIs.
+
+### Architecture
+
+```text
+Client
+  ↓
+API Gateway
+  ↓
+AI Service
+  ↓
+Model Inference
+  ↓
+Evaluation / Monitoring
+  ↓
+Response
+```
+
+### Focus Areas
+
+* Model Serving
+* FastAPI
+* REST APIs
+* Inference Pipelines
+* Model Management
+* Monitoring
+* Production Architecture
+
+**Focus:** AI Engineering · Backend · MLOps · Model Serving
+
+---
+
+## 🏗️ 21 — End-to-End AI SaaS
+
+An end-to-end AI product architecture combining AI models, backend services, user management, APIs, and production-oriented infrastructure.
+
+### Architecture
+
+```text
+User
+  ↓
+Frontend / Client
+  ↓
+Backend API
+  ↓
+Authentication & User Management
+  ↓
+AI Orchestration Layer
+  ↓
+Model / LLM
+  ↓
+Database
+  ↓
+Monitoring & Analytics
+```
+
+### Focus Areas
+
+* AI Product Development
+* Generative AI
+* Backend Engineering
+* APIs
+* Authentication
+* Database Architecture
+* Model Integration
+* Deployment
+* Monitoring
+
+**Focus:** AI SaaS · Generative AI · Backend · Production AI
+
+---
+
+# 🗂️ Project Coverage
+
+|  # | Project                          | Primary Domain              |
+| -: | -------------------------------- | --------------------------- |
+| 01 | Innoverse 2025                   | 🧠 Multimodal AI            |
+| 02 | Advanced Audio Processing        | 🎙️ Speech & Audio AI       |
+| 03 | Speech Emotion Recognition       | 🗣️ Speech AI               |
+| 04 | AsanAi                           | 🌱 Multimodal Generative AI |
+| 05 | CbcAi                            | 🩺 Conversational AI        |
+| 06 | Data Science Analytics Platform  | 📊 Data Science             |
+| 07 | Time-Series Forecasting          | 📈 Predictive ML            |
+| 08 | Real-World Data Cleaning & EDA   | 🧹 Data Science             |
+| 09 | Fraud Detection System           | 🛡️ Applied ML              |
+| 10 | Recommendation Engine            | 🎯 Recommendation Systems   |
+| 11 | Persian Transformer NLP          | 📝 NLP                      |
+| 12 | Persian RAG Knowledge Base       | 🔎 RAG                      |
+| 13 | Persian Semantic Search          | 🧠 Semantic Search          |
+| 14 | Document Intelligence System     | 📄 Document AI              |
+| 15 | Computer Vision Object Detection | 👁️ Computer Vision         |
+| 16 | Visual Search Engine             | 🔍 Visual Search            |
+| 17 | Multi-Agent Research System      | 🧩 Agentic AI               |
+| 18 | Speech-to-Text Platform          | 🎙️ Speech AI               |
+| 19 | ML Experiment Tracking Platform  | 🧪 MLOps                    |
+| 20 | Production AI Model Platform     | ⚙️ AI Engineering           |
+| 21 | End-to-End AI SaaS               | 🏗️ AI Product Engineering  |
 
 ---
 
@@ -443,4 +814,3 @@ If you're interested in **AI Engineering, Machine Learning, Deep Learning, NLP, 
   <b>Mohammad Mahdi Omidvar</b><br>
   AI Engineer & Data Scientist
 </p>
-
