@@ -1,535 +1,446 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&size=28&duration=4000&pause=1500&color=D4AF37&center=true&vCenter=true&width=900&lines=Mohammad+Mahdi+Omidvar;AI+Engineer+%7C+Data+Scientist;Building+Intelligent+Solutions+with+Python;Machine+Learning+%26+Deep+Learning;NLP+%26+Computer+Vision" alt="Mohammad Mahdi Omidvar - AI Engineer & Data Scientist"/>
+# Mohammad Mahdi Omidvar
 
 ### AI Engineer & Data Scientist
 
-**Building intelligent systems with Python, Machine Learning, Deep Learning & Multimodal AI**
+Building intelligent systems with **Python, Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI.**
 
-<p>
-  <a href="https://pyqubit.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=1a1a1a" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/MmdxDev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=1a1a1a" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/PyQubit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a" alt="GitHub"/>
-  </a>
-  <a href="https://t.me/MmdxDev">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=1a1a1a" alt="Telegram"/>
-  </a>
-  <a href="https://instagram.com/MmdxDev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=1a1a1a" alt="Instagram"/>
-  </a>
-  <a href="mailto:pyqubit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=1a1a1a" alt="Email"/>
-  </a>
-</p>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-PyQubit-181717?style=flat-square\&logo=github)](https://github.com/PyQubit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MmdxDev-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/MmdxDev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pyqubit.github.io-2F80ED?style=flat-square\&logo=google-chrome\&logoColor=white)](https://pyqubit.github.io/)
+[![Telegram](https://img.shields.io/badge/Telegram-MmdxDev-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/MmdxDev)
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I am **Mohammad Mahdi Omidvar (PyQubit)**, an **AI Engineer & Data Scientist** focused on designing and building intelligent systems with **Python, Machine Learning, Deep Learning, NLP, Computer Vision, and multimodal AI**.
+I'm an **AI Engineer & Data Scientist** focused on designing and building intelligent software systems with practical applications.
 
-My work spans the complete AI development lifecycle:
+My work spans the complete AI development lifecycle — from **data preparation and model development** to **AI-powered applications, APIs, deployment, evaluation, and production-oriented architecture**.
 
-```text
-Problem Definition
-      ↓
-Data & Research
-      ↓
-Model Development
-      ↓
-Evaluation & Optimization
-      ↓
-AI Engineering
-      ↓
-API / Application Integration
-      ↓
-Deployment
-      ↓
-Monitoring & Iteration
-```
+I'm particularly interested in combining modern AI techniques with software engineering to build systems that are not only accurate, but also **usable, scalable, maintainable, and deployable**.
 
-I enjoy turning AI concepts into **usable, engineered systems** rather than stopping at experiments or notebooks.
+### Areas of Focus
 
----
+* 🤖 Machine Learning & Deep Learning
+* 🧠 Generative AI & Large Language Models
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 👁️ Computer Vision
+* 📝 Natural Language Processing
+* 🎙️ Speech & Audio AI
+* 🔗 Multimodal AI
+* 🧩 AI Agents & Multi-Agent Systems
+* 📊 Data Science & Analytics
+* ⚙️ AI APIs & Model Serving
+* 🚀 MLOps & Experiment Tracking
+* 🏗️ Production AI Architecture
 
 ## 🏆 Recognition
 
-<div align="center">
+### 🥇 Gold Medalist — INNOVERSE 2025
 
-### 🥇 INNOVERSE 2025 — Gold Medalist
+**AI Section — Gold Medal Winner**
 
-**AI Section · Emotion-to-Art Multimodal AI System**
+Recognized at **INNOVERSE 2025** for an AI project developed as part of a multidisciplinary team.
 
-Internationally recognized **Gold Medal-winning AI project** at INNOVERSE 2025.
+**Team:**
 
-<br/>
+* Mohammad Mahdi Omidvar
+* Mahyar Alizadeh
+* Arad Chizari
+* Sogol Tarnabi
 
-<a href="https://pyqubit.github.io/3.jpg">
-  <img src="https://pyqubit.github.io/3.jpg" alt="INNOVERSE 2025 Certificate" width="280"/>
-</a>
+**Project:** Emotion-to-Art Multimodal AI
 
-<a href="https://pyqubit.github.io/4.jpg">
-  <img src="https://pyqubit.github.io/4.jpg" alt="INNOVERSE 2025 Gold Medal" width="280"/>
-</a>
+📜 **Recognition**
 
-<br/><br/>
+<p align="center">
+  <img src="https://pyqubit.github.io/3.jpg" alt="INNOVERSE 2025 Certificate" width="350">
+  <br>
+  <sub>INNOVERSE 2025 Certificate</sub>
+</p>
 
-<a href="https://innoverse.world/">
-  <img src="https://img.shields.io/badge/INNOVERSE-Official%20Website-D4AF37?style=for-the-badge" alt="INNOVERSE Official Website"/>
-</a>
+<p align="center">
+  <img src="https://pyqubit.github.io/4.jpg" alt="INNOVERSE 2025 Gold Medal" width="250">
+  <br>
+  <sub>INNOVERSE 2025 Gold Medal</sub>
+</p>
 
-</div>
+🔗 [View the project →](https://github.com/PyQubit/Innoverse-2025)
 
 ---
 
-# 🧠 Core AI Expertise
 
-### 🤖 Machine Learning
+## 🧠 Core AI Expertise
+
+### Machine Learning
 
 * Supervised & Unsupervised Learning
 * Classification & Regression
+* Clustering
 * Feature Engineering
 * Model Evaluation
-* Ensemble Methods
-* Decision Trees & Tree-Based Models
-* Model Optimization
-* Data Preprocessing
+* Cross-Validation
+* Hyperparameter Optimization
+* Scikit-learn Pipelines
 
-### 🧬 Deep Learning
+### Deep Learning
 
-* Neural Network Design
-* CNN
-* RNN
-* LSTM
+* Neural Networks
+* CNNs
+* RNNs
+* LSTM / GRU
 * Transfer Learning
 * Representation Learning
-* Attention Mechanisms
-* Transformer Architectures
-* Model Training & Evaluation
-* Hyperparameter Optimization
+* Model Optimization
 
-### 🗣️ NLP & Language AI
+### Natural Language Processing
 
 * Text Preprocessing
+* Text Classification
 * Sentiment Analysis
-* Sequence Modeling
-* Transformers
 * Embeddings
-* Semantic Search
-* Retrieval-Augmented Generation (RAG)
-* Large Language Model Applications
-* Prompt & Context Engineering
-* Speech-to-Text with Whisper
+* Transformer Architectures
+* Semantic Similarity
+* Information Retrieval
+* Persian NLP
 
-### 👁️ Computer Vision
+### Computer Vision
 
 * Image Classification
 * Object Detection
 * Image Processing
-* Feature Extraction
-* OpenCV
-* Visual Understanding
+* OCR
+* Visual Feature Extraction
+* Computer Vision Pipelines
+
+### Speech & Audio AI
+
+* Speech Processing
+* Audio Classification
+* Speech-to-Text
+* MFCC
+* Spectrograms
+* Mel-Spectrograms
+* Audio Feature Engineering
+
+---
+
+## 🧬 Advanced AI Engineering
+
+### Generative AI
+
+* Large Language Models (LLMs)
+* Prompt Engineering
+* Context Engineering
+* AI Application Architecture
+* Model/API Integration
 * Multimodal AI
 
-### 🎙️ Audio & Speech AI
+### Retrieval & Knowledge Systems
 
-* Audio Signal Processing
+* RAG Architecture
+* Vector Search
+* Semantic Search
+* Embeddings
+* Knowledge Bases
+* Document Retrieval
+* Retrieval Pipelines
+
+### AI Agents
+
+* Tool-Using Agents
+* Agent Workflows
+* Multi-Agent Architectures
+* Task Decomposition
+* AI-Orchestrated Systems
+
+### Production AI
+
+* AI APIs
+* Model Serving
+* FastAPI
+* Backend Architecture
+* Inference Pipelines
+* Evaluation
+* Monitoring
+* Experiment Tracking
+* Deployment
+* MLOps Concepts
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+
+### Machine Learning & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+
+### AI & NLP
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+
+* Transformers
+* RAG
+* Embeddings
+* Semantic Search
+* LLM Applications
+* Multimodal AI
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+
+* REST APIs
+* Async Python
+* API Integration
+* Backend Architecture
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+
+### Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+---
+
+# 🚀 Featured Projects
+
+## 🥇 Innoverse 2025 — Emotion-to-Art Multimodal AI
+
+A multimodal AI system combining **emotion recognition and generative visual concepts** to transform emotional information into artistic outputs.
+
+🏆 **INNOVERSE 2025 — Gold Medal, AI Section**
+
+**Focus:** Multimodal AI · Deep Learning · Computer Vision · AI Applications
+
+🔗 [Repository](https://github.com/PyQubit/Innoverse-2025)
+
+---
+
+## 🌱 AsanAi — Smart Agriculture AI Assistant
+
+A multimodal AI assistant designed for agricultural applications.
+
+### Capabilities
+
+* 💬 AI Agricultural Consultation
+* 🌿 Plant Diagnosis from Images
+* 📷 Multimodal AI Interaction
+* 🛒 Agricultural Product Listings
+* 👤 User & Subscription Management
+* 🤖 Telegram Bot Interface
+* ⚙️ AI API Integration
+* 🔐 Environment-Based Configuration
+
+**Focus:** Generative AI · Multimodal AI · Computer Vision · AI Products · Backend Engineering
+
+---
+
+## 🩺 CbcAi — Conversational Medical AI
+
+A conversational AI assistant designed around structured interaction, user context, and safety-aware AI responses.
+
+### Capabilities
+
+* 💬 Conversational AI
+* 🧠 User Memory
+* 🧪 Laboratory Information Workflow
+* 👨‍⚕️ Medical Specialty Guidance
+* 🌐 Persian & English Support
+* 👤 User Accounts
+* 💎 Premium Architecture
+* 🛠️ Administrative Tools
+* 🗄️ PostgreSQL Backend
+
+**Focus:** Conversational AI · LLM Applications · Backend Engineering · PostgreSQL · AI Safety
+
+---
+
+## 🎙️ Advanced Audio Processing
+
+A deep-learning-based audio processing project exploring speech and audio classification pipelines.
+
+### Techniques
+
 * MFCC
-* Spectrogram Analysis
-* Mel-Spectrograms
-* Speech Recognition
-* Audio Classification
-* Voice Processing
-* Deep Learning for Audio
+* Spectrogram
+* Mel-Spectrogram
+* Audio Preprocessing
+* CNN / RNN / LSTM
+* Speech Classification
 
-### 📊 Data Science
-
-* Exploratory Data Analysis
-* Data Cleaning
-* Feature Engineering
-* Statistical Analysis
-* Predictive Modeling
-* Data Visualization
-* Experiment Analysis
-* Model Evaluation
+🔗 [Repository](https://github.com/PyQubit/Audio-Processing)
 
 ---
 
-# ⚙️ AI Engineering
+## 📝 NLP with Deep Learning
 
-<div align="center">
+An NLP project focused on **sentiment analysis of IMDB movie reviews** using deep learning.
 
-|          Layer          | Technologies / Concepts                                    |
-| :---------------------: | :--------------------------------------------------------- |
-|     **Programming**     | Python                                                     |
-|       **ML / DL**       | PyTorch · TensorFlow · Keras · Scikit-learn                |
-|     **NLP / GenAI**     | Transformers · LLMs · RAG · Embeddings · Whisper           |
-|   **Computer Vision**   | OpenCV · CNN-based Vision Models                           |
-|       **Audio AI**      | Librosa · MFCC · Spectrograms · Speech Processing          |
-|       **Backend**       | FastAPI · Flask · Django                                   |
-|    **Bots & AI Apps**   | aiogram · Telegram AI Applications                         |
-|      **Databases**      | PostgreSQL · MySQL · SQLite · SQLAlchemy                   |
-|         **Data**        | NumPy · Pandas · Matplotlib · Seaborn                      |
-|    **Infrastructure**   | Linux · Docker · Git · GitHub                              |
-|    **AI Integration**   | REST APIs · Model APIs · External AI Services              |
-| **Deployment Concepts** | Model Serving · APIs · Containers · Production Integration |
-
-</div>
-
----
-
-# 🧩 Advanced AI Engineering Domains
-
-Modern AI engineering goes beyond model training. My technical focus includes the layers required to turn models into usable AI systems.
+### Pipeline
 
 ```text
-                    AI ENGINEERING
-                           │
-        ┌──────────────────┼──────────────────┐
-        ↓                  ↓                  ↓
-   DATA LAYER          MODEL LAYER       APPLICATION
-        │                  │                  │
-   Cleaning            ML / DL             APIs
-   Processing          Transformers        Backends
-   Features            LLMs                AI Apps
-   Pipelines           Vision              Interfaces
-                       Audio
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                           ↓
-                   PRODUCTION LAYER
-                           │
-              ┌────────────┼────────────┐
-              ↓            ↓            ↓
-           Serving      Monitoring     Scaling
-              │            │            │
-              └────────────┼────────────┘
-                           ↓
-                    REAL-WORLD AI
+IMDB Reviews
+      ↓
+Text Preprocessing
+      ↓
+Tokenization
+      ↓
+Sequence Padding
+      ↓
+Embedding
+      ↓
+LSTM
+      ↓
+Dense Output
+      ↓
+Positive / Negative
 ```
 
-### 🔬 Advanced Areas
-
-* **Generative AI**
-* **Large Language Models**
-* **RAG Systems**
-* **Multimodal AI**
-* **AI Agents & Agentic Workflows**
-* **Semantic Search**
-* **Vector-Based Retrieval**
-* **Model Serving**
-* **AI APIs**
-* **MLOps**
-* **Experiment Tracking**
-* **Evaluation & Monitoring**
-* **AI System Optimization**
-* **Production AI Architecture**
-
-> These are the engineering areas I am actively developing across projects and research.
+**Focus:** NLP · Deep Learning · LSTM · Sentiment Analysis
 
 ---
 
-# 🛠️ Tech Stack
+# 🔬 AI Project Portfolio
 
-## 🐍 Programming
+Beyond the flagship projects above, my development roadmap covers a broad range of AI engineering problems:
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-</div>
-
-## 🤖 Machine Learning & Deep Learning
-
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-</div>
-
-## 🧠 NLP, LLM & Multimodal AI
-
-<div align="center">
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=000000)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-
-</div>
-
-## 📊 Data & Visualization
-
-<div align="center">
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
-
-</div>
-
-## 🚀 Backend & AI Applications
-
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-
-</div>
-
-## 🗄️ Databases
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-</div>
-
-## 🐳 Infrastructure & Development
-
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=000000)
-
-</div>
+| Domain              | Projects                                      |
+| ------------------- | --------------------------------------------- |
+| 🤖 Generative AI    | LLM Applications · RAG · AI Agents            |
+| 📝 NLP              | Persian Transformer NLP · Semantic Search     |
+| 🔎 Retrieval        | RAG Knowledge Base · Vector Search            |
+| 👁️ Computer Vision | Object Detection · Visual Search              |
+| 📄 Document AI      | Document Intelligence · OCR                   |
+| 🎙️ Speech AI       | Speech-to-Text · Speech Emotion Recognition   |
+| 📊 Data Science     | Analytics · EDA · Data Cleaning               |
+| 📈 Predictive AI    | Time-Series Forecasting                       |
+| 🛡️ Applied ML      | Fraud Detection · Recommendation Systems      |
+| ⚙️ AI Engineering   | Model Serving · Experiment Tracking · AI APIs |
+| 🏗️ AI Products     | Production AI Platforms · End-to-End AI SaaS  |
+| 🧩 Agentic AI       | Multi-Agent Research Systems                  |
 
 ---
 
-# 🎨 Flagship Project
+# 🏗️ Engineering Philosophy
 
-## 🥇 INNOVERSE 2025 — Emotion-to-Art
+I aim to build AI systems that go beyond experimentation.
 
-A multimodal AI system designed to interpret human emotion from multiple input modalities and transform that interpretation into generative artwork.
-
-### System Architecture
+My development approach focuses on:
 
 ```text
-┌─────────────────────────────────────────────┐
-│              INPUT MODALITIES               │
-├─────────────────────────────────────────────┤
-│  📝 Text                                    │
-│  🎤 Voice                                   │
-│  🖼️ Image                                   │
-└──────────────────────┬──────────────────────┘
-                       ↓
-┌─────────────────────────────────────────────┐
-│             EMOTION ANALYSIS               │
-├─────────────────────────────────────────────┤
-│  • Language / Sentiment Analysis            │
-│  • Speech-to-Text                            │
-│  • Emotional Context Interpretation          │
-│  • Multimodal Understanding                  │
-└──────────────────────┬──────────────────────┘
-                       ↓
-┌─────────────────────────────────────────────┐
-│            GENERATIVE PIPELINE             │
-├─────────────────────────────────────────────┤
-│  • AI-based Artistic Generation              │
-│  • Generative Model Integration              │
-│  • Creative Transformation                   │
-└──────────────────────┬──────────────────────┘
-                       ↓
-┌─────────────────────────────────────────────┐
-│              FINAL ARTWORK                  │
-└─────────────────────────────────────────────┘
+Problem Definition
+       ↓
+Data & Requirements
+       ↓
+Exploration & Analysis
+       ↓
+Model Development
+       ↓
+Evaluation
+       ↓
+AI Application
+       ↓
+API / Backend
+       ↓
+Deployment
+       ↓
+Monitoring & Iteration
 ```
 
-### Key Technologies
-
-`Python` · `Gradio` · `Ollama` · `LLMs` · `Whisper` · `Audio Processing` · `Replicate API`
-
-### Highlights
-
-* Multimodal AI processing
-* Emotion-oriented interpretation
-* Speech-to-text integration
-* Generative AI pipeline
-* Interactive AI application
-
-<a href="https://github.com/PyQubit/Innoverse-2025">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT%20REPOSITORY-D4AF37?style=for-the-badge&logo=github&logoColor=000000" alt="View Innoverse 2025 Project"/>
-</a>
+The goal is to bridge the gap between **AI research, software engineering, and real-world products**.
 
 ---
 
-# 🌱 Selected AI Projects
+# 📚 Current Learning & Research
 
-| Project                                  | Focus                                  |
-| :--------------------------------------- | :------------------------------------- |
-| 🎨 **Innoverse-2025**                    | Multimodal Emotion-to-Art AI           |
-| 🔊 **Audio-Processing**                  | Deep Learning for Audio & Speech       |
-| 🌾 **AsanAi**                            | Multimodal AI for Smart Agriculture    |
-| 🩺 **CbcAi**                             | Conversational AI Medical Assistant    |
-| 📊 **Data Science Analytics**            | Data Analysis & Predictive Modeling    |
-| 📈 **Time-Series Forecasting**           | Sequential Data & Forecasting          |
-| 🧹 **Real-World Data Cleaning & EDA**    | Data Preparation & Analysis            |
-| 🚨 **Fraud Detection**                   | Machine Learning for Anomaly Detection |
-| 🎯 **Recommendation Engine**             | Personalized Recommendation Systems    |
-| 📝 **Persian Transformer NLP**           | Transformer-Based Persian NLP          |
-| 🔎 **Persian Semantic Search**           | Semantic Retrieval                     |
-| 📚 **Persian RAG Knowledge Base**        | Retrieval-Augmented Generation         |
-| 📄 **Document Intelligence**             | AI-Powered Document Processing         |
-| 👁️ **Computer Vision Object Detection** | Vision & Detection Systems             |
-| 🔍 **Visual Search Engine**              | Image-Based Retrieval                  |
-| 🤖 **Multi-Agent Research System**       | Agentic AI Workflows                   |
-| 🎙️ **Speech-to-Text Platform**          | Speech Recognition                     |
-| 🧪 **ML Experiment Tracking**            | Experiment Management                  |
-| ⚙️ **Production AI Model Platform**      | AI Deployment & Serving                |
-| 🚀 **End-to-End AI SaaS**                | Full AI Product Engineering            |
+I'm continuously exploring:
 
----
-
-# 🔬 Current Research & Development
-
-```text
-                    CURRENT FOCUS
-                         │
-        ┌────────────────┼────────────────┐
-        ↓                ↓                ↓
-   Generative AI      AI Agents        Multimodal
-        │                │                │
-      LLMs          Agentic Workflows     Vision
-      RAG           Tool Integration      Audio
-   Evaluation       Orchestration         Text
-        │                │                │
-        └────────────────┼────────────────┘
-                         ↓
-                    AI ENGINEERING
-                         │
-              MLOps · Serving · APIs
-              Monitoring · Evaluation
-              Production Systems
-```
-
-### Areas of active development
-
-* Large Language Model applications
+* Generative AI
+* Large Language Models
 * Retrieval-Augmented Generation
-* Multimodal AI systems
-* AI agents and agentic workflows
-* Persian NLP
+* Multimodal AI
+* AI Agents
+* Model Evaluation
+* AI System Architecture
+* MLOps
+* Model Serving
+* Production AI
+* Advanced NLP
 * Computer Vision
-* Speech & Audio AI
-* AI APIs and backend systems
-* MLOps and model lifecycle engineering
-* Production-oriented AI architecture
+* Speech & Audio Intelligence
 
 ---
 
-# 📈 Engineering Philosophy
+# 📈 GitHub Activity
 
-I approach AI development as an engineering lifecycle rather than a single modeling task:
+My GitHub profile documents the development of AI systems, experiments, research projects, and production-oriented applications.
 
-```text
-PROBLEM
-   ↓
-RESEARCH
-   ↓
-DATA
-   ↓
-EXPERIMENT
-   ↓
-MODEL
-   ↓
-EVALUATION
-   ↓
-ENGINEERING
-   ↓
-DEPLOYMENT
-   ↓
-MONITORING
-   ↓
-ITERATION
-```
+Rather than relying on third-party dynamic statistics, this profile focuses on **projects, technical depth, and verifiable work**.
 
-### Principles
+Explore my repositories:
 
-* 🎯 **Problem First** — Start from the actual problem, not the model.
-* 🔬 **Research Driven** — Test approaches using evidence and measurable evaluation.
-* 🧠 **Model Conscious** — Choose architectures based on task, data and constraints.
-* ⚙️ **Engineering Focused** — Turn experiments into maintainable software.
-* 🚀 **Deployment Ready** — Design with APIs, infrastructure and integration in mind.
-* 📊 **Measurement Driven** — Evaluate models using meaningful metrics.
-* 🔁 **Iterative** — Continuously improve data, models and systems.
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PyQubit&show_icons=true&theme=dark&bg_color=0d1117&title_color=d4af37&text_color=f0f0f0&icon_color=d4af37&border_color=d4af37&border_radius=10" alt="GitHub Statistics"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyQubit&layout=compact&theme=dark&bg_color=0d1117&title_color=d4af37&text_color=f0f0f0&border_color=d4af37&border_radius=10" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PyQubit/PyQubit/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+👉 **[github.com/PyQubit](https://github.com/PyQubit)**
 
 ---
 
 # 🌐 Connect
 
-<div align="center">
+### Professional
 
-|     Platform     | Link                                          |
-| :--------------: | :-------------------------------------------- |
-| 🌐 **Portfolio** | https://pyqubit.github.io/                    |
-|  💼 **LinkedIn** | https://www.linkedin.com/in/MmdxDev           |
-|   💻 **GitHub**  | https://github.com/PyQubit                    |
-|  💬 **Telegram** | https://t.me/MmdxDev                          |
-| 📸 **Instagram** | https://instagram.com/MmdxDev                 |
-|   📧 **Email**   | [pyqubit@gmail.com](mailto:pyqubit@gmail.com) |
+💼 **LinkedIn:**
+https://www.linkedin.com/in/MmdxDev
 
-</div>
+🌐 **Portfolio:**
+https://pyqubit.github.io/
+
+### Developer
+
+🐙 **GitHub:**
+https://github.com/PyQubit
+
+### Social
+
+📱 **Telegram:**
+https://t.me/MmdxDev
+
+📸 **Instagram:**
+https://instagram.com/MmdxDev
+
+### Contact
+
+📧 **Email:**
+[pyqubit@gmail.com](mailto:pyqubit@gmail.com)
 
 ---
 
-<div align="center">
+## ⭐ Featured Work
 
-## 🚀 Let's Build Intelligent Systems
+If you're interested in **AI Engineering, Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, or practical AI systems**, feel free to explore my repositories.
 
-**Research → Engineer → Deploy → Improve**
+**Building intelligent systems — from models to products.**
 
-<br/>
+---
 
-### Mohammad Mahdi Omidvar
-
-**AI Engineer & Data Scientist**
-
-**🏆 INNOVERSE 2025 Gold Medalist**
-
-<br/>
-
-```text
-Build. Experiment. Engineer. Ship.
-```
-
-</div>
+<p align="center">
+  <b>Mohammad Mahdi Omidvar</b><br>
+  AI Engineer & Data Scientist
+</p>
 
